@@ -57,7 +57,27 @@
 // sayHi();
 
 
-//Activity 2//Creat an object called pet with the key values of: name, typeOfPet, age, colour and methods called eat and drink. They should return a strign saying []
+//Activity 2//
+// const eat = () => {
+//     return `${pet.name} is eating.`;
+// };
+
+// const drink = () => {
+//     return `${pet.name} is drinking.`;
+// };
+
+// let pet = {
+//     name: "Benji",
+//     typeOfPet: "Cat",
+//     age: 4,
+//     colour: "Black",
+//     eat: eat,
+//     drink: drink
+// };
+
+// console.log(pet.eat());
+// console.log(pet.drink()); 
+
 
 //Activity 3
-//Create an object called coffeeShop with key values of: branch, drinks with prices, food with prices and methods called drinksOrdered and foodOrdered. They should return a string saying [You rOrder] is ... with all items chosen with costs and total cost.
+
